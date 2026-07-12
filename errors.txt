@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 77: show statement expects a non-empty block.
+    show scroll3:
+                 ^
+
+File "game/script.rpy", line 78: expected statement.
+    zoom 1.5
+          ^
+
+Ren'Py Version: Ren'Py 8.5.3.26051504
+Sun Jul 12 13:06:37 2026
