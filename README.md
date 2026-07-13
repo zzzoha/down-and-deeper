@@ -1,9 +1,5 @@
 # down-and-deeper
 
-When Lumina falls asleep, she doesn’t just dream. She descends.
-
-This is a story-based game where Lumina goes on a whimsical journey down and deeper. 
-
-Does Lumes help her? Can she escape? Or will she be stuck forever?
+Down and deeper is a pixel game, featuring two character: Lumes and Lumina. It starts when the two were playing and then Lumina, exhausted, falls asleep. In her dreams (Lumina doesn't know she is dreaming) she descends into a cavern with a box, which she curiously goes to, leading to a prophecy written on a scroll to pop up. By using the hints to finish the blanks in the prophecy leads the player to pick the correct path, progressing them to the next part and if not chosen correctly leads the game to be over and Lumina trapped. After choosing the correct path, Lumina once again decsends even lower into the scorching magma and lava of the earth. She then comes across a message in a bottle and with the help of her brother, Lumes (who narrates), she deciphers the code and then has to choose the correct answer. And depending on whether she's right or wrong then only can she escape (wake up). Hope you have fun =)
 
 P.S Making this game would have been impossible without these assets: https://shorturl.at/nCqre
